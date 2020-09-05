@@ -1,0 +1,10 @@
+#centereddiv {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.container {
+  border-width:5px;
+  border-style:dashed;
+}
